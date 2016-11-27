@@ -1,0 +1,17 @@
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/obj/Debug/Assembly-CSharp.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/UnityEngine.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/UnityEditor.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/Mono.Cecil.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/Unity.DataContract.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/mayaracoelho/Google Drive/HackthonFiocruz/HackathonFioCruz/Temp/bin/Debug/Mono.Cecil.Mdb.dll
